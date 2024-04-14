@@ -1,5 +1,5 @@
 # Eleanor: A RISC-V Kernel
-
+<pre>
 In development.
 <br>
 Things currently implemented:
@@ -9,3 +9,4 @@ Things currently implemented:
 
 Next steps:
     - Memory management
+</pre>
