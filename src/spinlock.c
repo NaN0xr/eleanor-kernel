@@ -3,6 +3,8 @@
 #include <stdint.h>
 #include <stdatomic.h>
 
+extern return_mhartid();
+
 struct spinlock
 {
 	int locked;

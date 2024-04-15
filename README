@@ -1,2 +1,5 @@
 The Eleanor Kernel is a kernel for the RISC-V ISA.
 Currently in development
+
+Borrowed files:
+	kernel.ld from xv6-riscv
