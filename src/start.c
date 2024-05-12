@@ -1,5 +1,8 @@
+#include "fork.c"
+
 void start()
 {
-	// Nothing to see here :)
+	fork();
+	printf("Starting....");
 }
 

@@ -1,5 +1,6 @@
 .section .text
 .global return_mhartid
+.global _entry
 
 _entry:
 	la gp, __global_pointer$

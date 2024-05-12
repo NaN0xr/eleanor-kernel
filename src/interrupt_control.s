@@ -1,7 +1,3 @@
-.global interrupt_off
-.global interrupt_on
-.global interrupt_get
-
 interrupt_off:
 	csrwi mie, 0
 
